@@ -1,0 +1,16 @@
+body{
+    background-color: white;    
+  }
+
+  header{
+      text-align: center;
+  }
+
+  #logo{
+    width: 40%;
+    margin-bottom: 20px;
+  }
+
+  footer{
+      text-align: center;
+  }
